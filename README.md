@@ -1,7 +1,7 @@
 # genoma
 Matplotlib Pyplot e Manipulação de Dados com Python
 
-ter instalado Python 3.12.3
+ter instalado Python 3.12.3 e a biblioteca do mtplotib
 e: pip install matplotlib
 
 
