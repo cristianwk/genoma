@@ -1,6 +1,9 @@
 # genoma
 Matplotlib Pyplot e Manipulação de Dados com Python
 
+ter instalado Python 3.12.3
+e: pip install matplotlib
+
 
 Este repositório contém materiais e exemplos do curso focado na biblioteca MATPLOTLIB PYPLOT 
 e na manipulação de dados obtidos no DataSUS e bancos de dados de bioinformática. 
